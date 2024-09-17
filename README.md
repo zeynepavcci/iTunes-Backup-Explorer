@@ -25,15 +25,22 @@ iTunes Backup Explorer is a Python-based GUI tool designed to explore and manage
 
 ## Requirements
 
-_Python 3.6+
-Required Libraries:
-tkinter
-tkinterdnd2
-sqlite3
-plistlib
-shutil
-json
-threading_
+_Python 3.6+_
+
+## Required Libraries:
+_tkinter_
+
+_tkinterdnd2_
+
+_sqlite3_
+
+_plistlib_
+
+_shutil_
+
+_json_
+
+_threading_
 
 ## Installation
 
