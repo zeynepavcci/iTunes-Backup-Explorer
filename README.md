@@ -4,11 +4,11 @@ iTunes Backup Explorer is a Python-based GUI tool designed to explore and manage
 
 ## Features
 
-Browse iTunes Backup Files: Categorize and explore backup files by type.
+_Browse iTunes Backup Files:_ Categorize and explore backup files by type.
 
-Drag & Drop Interface: Easily drag and drop backup folders to explore their contents.
+_Drag & Drop Interface:_ Easily drag and drop backup folders to explore their contents.
 
-Search Functionality: Search files in the backup by name.
+_Search Functionality:_ Search files in the backup by name.
 
 Device Information Display: Automatically extracts and displays device information from Info.plist files.
 
