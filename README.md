@@ -1,4 +1,4 @@
-#iTunes Backup Explorer
+# iTunes Backup Explorer
 
 iTunes Backup Explorer is a Python-based GUI tool designed to explore and manage iTunes backups. It provides users with an intuitive interface for searching, categorizing, and inspecting backup data files. It includes support for SQLite databases, plist files, symlink handling, and backup info loading.
 
