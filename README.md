@@ -2,7 +2,7 @@
 
 iTunes Backup Explorer is a Python-based GUI tool designed to explore and manage iTunes backups. It provides users with an intuitive interface for searching, categorizing, and inspecting backup data files. It includes support for SQLite databases, plist files, symlink handling, and backup info loading.
 
-Features
+## Features
 
 Browse iTunes Backup Files: Categorize and explore backup files by type.
 
@@ -23,7 +23,7 @@ Cross-Platform: Works on Windows, macOS, and Linux.
 
 
 
-Requirements
+## Requirements
 
 Python 3.6+
 Required Libraries:
@@ -35,7 +35,7 @@ shutil
 json
 threading
 
-Installation
+## Installation
 
 1.Clone or download the repository.
 
@@ -45,7 +45,7 @@ pip install tkinter tkinterdnd2
 3.Ensure you have the tkinterdnd2 library installed for drag-and-drop functionality. You can install it using:
 pip install tkinterdnd2
 
-Usage
+## Usage
 
 1.Launch the application:
 python main.py
@@ -65,7 +65,7 @@ python main.py
 
 4.Double-click on any file in the file tree to open it using your default system application.
 
-Key Features
+## Key Features
 
 1. Drag and Drop:
 
@@ -91,7 +91,7 @@ The tool connects to Manifest.db to fetch and display backup file metadata, cate
 
 Automatically extracts and displays device information such as Device Name, Product Type, and more from the Info.plist file in the backup.
 
-File Structure
+## File Structure
 
 main.py: The main script containing the GUI and logic.
 
@@ -101,7 +101,7 @@ Manifest.db: SQLite database file for iTunes backup (should be included in the i
 
 Info.plist: Plist file containing device information (part of the iTunes backup).
 
-License
+## License
 
 This project is licensed under the MIT License. See LICENSE for more information.
 
